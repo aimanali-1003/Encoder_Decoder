@@ -1,0 +1,15 @@
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\bin\Debug\net6.0\Art+Logic.exe
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\bin\Debug\net6.0\Art+Logic.deps.json
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\bin\Debug\net6.0\Art+Logic.runtimeconfig.json
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\bin\Debug\net6.0\Art+Logic.dll
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\bin\Debug\net6.0\Art+Logic.pdb
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.AssemblyInfo.cs
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.dll
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\refint\Art+Logic.dll
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.pdb
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\Art+Logic.genruntimeconfig.cache
+C:\Users\Dev\source\repos\Art+Logic\Art+Logic\obj\Debug\net6.0\ref\Art+Logic.dll
